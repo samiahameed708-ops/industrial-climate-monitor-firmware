@@ -11,7 +11,8 @@ Willkommen in meinem Firmware-Portfolio! Dieses Projekt dient als funktionaler P
 The firmware executes a continuous clock cycle to poll climate variations and trigger physical indicator warnings instantly.
 
 ### 🖼️ Operational Safety Alert Active
-![Wokwi Simulation](.Screenshot (1087).png)
+![Wokwi Simulation](./Screenshot (1087).png)
+
 
 
 ## 📊 Software Logical Architecture (Programmablauf)
